@@ -1,2 +1,2 @@
-const game = document.querySelector('.game');
+const game = document.querySelector('.gamer');
 console.log(game)
