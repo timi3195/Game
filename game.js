@@ -1,2 +1,3 @@
-const game = document.querySelector('.games');
-cosole.log('hello');
+const game = document.querySelector('.gamer');
+console.log(game)
+
